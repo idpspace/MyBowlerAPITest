@@ -1,0 +1,6 @@
+[debug] Copy resource mappings: 
+[debug] 	(C:\Users\idhaxn\Documents\Projects\BowlerTest\src\main\resources\layouts,C:\Users\idhaxn\Documents\Projects\BowlerTest\target\scala-2.9.1\classes\layouts)
+[debug] 	(C:\Users\idhaxn\Documents\Projects\BowlerTest\src\main\resources\views,C:\Users\idhaxn\Documents\Projects\BowlerTest\target\scala-2.9.1\classes\views)
+[debug] 	(C:\Users\idhaxn\Documents\Projects\BowlerTest\src\main\resources\layouts\default.mustache,C:\Users\idhaxn\Documents\Projects\BowlerTest\target\scala-2.9.1\classes\layouts\default.mustache)
+[debug] 	(C:\Users\idhaxn\Documents\Projects\BowlerTest\src\main\resources\views\GET,C:\Users\idhaxn\Documents\Projects\BowlerTest\target\scala-2.9.1\classes\views\GET)
+[debug] 	(C:\Users\idhaxn\Documents\Projects\BowlerTest\src\main\resources\views\GET\index.mustache,C:\Users\idhaxn\Documents\Projects\BowlerTest\target\scala-2.9.1\classes\views\GET\index.mustache)

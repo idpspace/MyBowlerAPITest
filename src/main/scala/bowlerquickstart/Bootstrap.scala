@@ -16,8 +16,7 @@ class Bootstrap{
 
   // I think we're ready to start and instantiate our Controller.
   val controller = new MyController
-	
-	
+
   // allow template reload during development - remove these lines in production for better performance
   org.bowlerframework.view.scalate.RenderEngine.getEngine.allowCaching = false
   org.bowlerframework.view.scalate.RenderEngine.getEngine.allowReload = true

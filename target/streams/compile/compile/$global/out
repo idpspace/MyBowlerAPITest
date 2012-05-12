@@ -1,0 +1,41 @@
+[debug] 
+[debug] Initial source changes: 
+[debug] 	removed:Set()
+[debug] 	added: Set()
+[debug] 	modified: Set(C:\Users\idhaxn\Documents\Projects\BowlerTest\src\main\scala\bowlerquickstart\MyController.scala)
+[debug] Removed products: Set()
+[debug] Modified external sources: Set()
+[debug] Modified binary dependencies: Set()
+[debug] Initial directly invalidated sources: Set(C:\Users\idhaxn\Documents\Projects\BowlerTest\src\main\scala\bowlerquickstart\MyController.scala)
+[debug] 
+[debug] Sources indirectly invalidated by:
+[debug] 	product: Set()
+[debug] 	binary dep: Set()
+[debug] 	external source: Set()
+[debug] Initially invalidated: Set(C:\Users\idhaxn\Documents\Projects\BowlerTest\src\main\scala\bowlerquickstart\MyController.scala)
+[info] Compiling 1 Scala source to C:\Users\idhaxn\Documents\Projects\BowlerTest\target\scala-2.9.1\classes...
+[debug] Interfacing (CompilerInterface) with Scala compiler version 2.9.1.final
+[debug] Calling Scala compiler with arguments  (CompilerInterface):
+[debug] 	-d
+[debug] 	C:\Users\idhaxn\Documents\Projects\BowlerTest\target\scala-2.9.1\classes
+[debug] 	-bootclasspath
+[debug] 	C:\Program Files (x86)\Java\jdk1.7.0_03\jre\lib\resources.jar;C:\Program Files (x86)\Java\jdk1.7.0_03\jre\lib\rt.jar;C:\Program Files (x86)\Java\jdk1.7.0_03\jre\lib\sunrsasign.jar;C:\Program Files (x86)\Java\jdk1.7.0_03\jre\lib\jsse.jar;C:\Program Files (x86)\Java\jdk1.7.0_03\jre\lib\jce.jar;C:\Program Files (x86)\Java\jdk1.7.0_03\jre\lib\charsets.jar;C:\Program Files (x86)\Java\jdk1.7.0_03\jre\classes;C:\Users\idhaxn\.sbt\boot\scala-2.9.1\lib\scala-library.jar
+[debug] 	-classpath
+[debug] 	C:\Users\idhaxn\Documents\Projects\BowlerTest\target\scala-2.9.1\classes;C:\Users\idhaxn\.ivy2\cache\org.bowlerframework\core_2.9.1\jars\core_2.9.1-0.5.1.jar;C:\Users\idhaxn\.ivy2\cache\com.recursivity\recursivity-commons_2.9.1\jars\recursivity-commons_2.9.1-0.5.7.jar;C:\Users\idhaxn\.ivy2\cache\org.scala-lang\scalap\jars\scalap-2.9.1.jar;C:\Users\idhaxn\.sbt\boot\scala-2.9.1\lib\scala-compiler.jar;C:\Users\idhaxn\.ivy2\cache\joda-time\joda-time\jars\joda-time-1.6.2.jar;C:\Users\idhaxn\.ivy2\cache\org.scalatra\scalatra_2.9.1\jars\scalatra_2.9.1-2.0.1.jar;C:\Users\idhaxn\.ivy2\cache\org.fusesource.scalate\scalate-core\bundles\scalate-core-1.5.2.jar;C:\Users\idhaxn\.ivy2\cache\org.fusesource.scalate\scalate-util\bundles\scalate-util-1.5.2.jar;C:\Users\idhaxn\.ivy2\cache\org.scalatra\scalatra-fileupload_2.9.1\jars\scalatra-fileupload_2.9.1-2.0.1.jar;C:\Users\idhaxn\.ivy2\cache\commons-fileupload\commons-fileupload\jars\commons-fileupload-1.2.1.jar;C:\Users\idhaxn\.ivy2\cache\commons-io\commons-io\jars\commons-io-2.0.1.jar;C:\Users\idhaxn\.ivy2\cache\net.liftweb\lift-json-ext_2.9.1\jars\lift-json-ext_2.9.1-2.4-M4.jar;C:\Users\idhaxn\.ivy2\cache\commons-codec\commons-codec\jars\commons-codec-1.4.jar;C:\Users\idhaxn\.ivy2\cache\net.liftweb\lift-common_2.9.1\jars\lift-common_2.9.1-2.4-M4.jar;C:\Users\idhaxn\.ivy2\cache\net.liftweb\lift-json_2.9.1\jars\lift-json_2.9.1-2.4-M4.jar;C:\Users\idhaxn\.ivy2\cache\com.thoughtworks.paranamer\paranamer\jars\paranamer-2.3.jar;C:\Users\idhaxn\.ivy2\cache\org.slf4j\slf4j-api\jars\slf4j-api-1.6.0.jar;C:\Users\idhaxn\.ivy2\cache\org.slf4j\slf4j-nop\jars\slf4j-nop-1.6.0.jar;C:\Users\idhaxn\.ivy2\cache\javax.servlet\servlet-api\jars\servlet-api-2.5.jar
+[debug] 	C:\Users\idhaxn\Documents\Projects\BowlerTest\src\main\scala\bowlerquickstart\MyController.scala
+[debug] 	Invalidated direct: Set(C:\Users\idhaxn\Documents\Projects\BowlerTest\src\main\scala\bowlerquickstart\Bootstrap.scala)
+[debug] 	Invalidated direct: Set()
+[debug] Incrementally invalidated: Set(C:\Users\idhaxn\Documents\Projects\BowlerTest\src\main\scala\bowlerquickstart\MyController.scala, C:\Users\idhaxn\Documents\Projects\BowlerTest\src\main\scala\bowlerquickstart\Bootstrap.scala)
+[info] Compiling 2 Scala sources to C:\Users\idhaxn\Documents\Projects\BowlerTest\target\scala-2.9.1\classes...
+[debug] Interfacing (CompilerInterface) with Scala compiler version 2.9.1.final
+[debug] Calling Scala compiler with arguments  (CompilerInterface):
+[debug] 	-d
+[debug] 	C:\Users\idhaxn\Documents\Projects\BowlerTest\target\scala-2.9.1\classes
+[debug] 	-bootclasspath
+[debug] 	C:\Program Files (x86)\Java\jdk1.7.0_03\jre\lib\resources.jar;C:\Program Files (x86)\Java\jdk1.7.0_03\jre\lib\rt.jar;C:\Program Files (x86)\Java\jdk1.7.0_03\jre\lib\sunrsasign.jar;C:\Program Files (x86)\Java\jdk1.7.0_03\jre\lib\jsse.jar;C:\Program Files (x86)\Java\jdk1.7.0_03\jre\lib\jce.jar;C:\Program Files (x86)\Java\jdk1.7.0_03\jre\lib\charsets.jar;C:\Program Files (x86)\Java\jdk1.7.0_03\jre\classes;C:\Users\idhaxn\.sbt\boot\scala-2.9.1\lib\scala-library.jar
+[debug] 	-classpath
+[debug] 	C:\Users\idhaxn\Documents\Projects\BowlerTest\target\scala-2.9.1\classes;C:\Users\idhaxn\.ivy2\cache\org.bowlerframework\core_2.9.1\jars\core_2.9.1-0.5.1.jar;C:\Users\idhaxn\.ivy2\cache\com.recursivity\recursivity-commons_2.9.1\jars\recursivity-commons_2.9.1-0.5.7.jar;C:\Users\idhaxn\.ivy2\cache\org.scala-lang\scalap\jars\scalap-2.9.1.jar;C:\Users\idhaxn\.sbt\boot\scala-2.9.1\lib\scala-compiler.jar;C:\Users\idhaxn\.ivy2\cache\joda-time\joda-time\jars\joda-time-1.6.2.jar;C:\Users\idhaxn\.ivy2\cache\org.scalatra\scalatra_2.9.1\jars\scalatra_2.9.1-2.0.1.jar;C:\Users\idhaxn\.ivy2\cache\org.fusesource.scalate\scalate-core\bundles\scalate-core-1.5.2.jar;C:\Users\idhaxn\.ivy2\cache\org.fusesource.scalate\scalate-util\bundles\scalate-util-1.5.2.jar;C:\Users\idhaxn\.ivy2\cache\org.scalatra\scalatra-fileupload_2.9.1\jars\scalatra-fileupload_2.9.1-2.0.1.jar;C:\Users\idhaxn\.ivy2\cache\commons-fileupload\commons-fileupload\jars\commons-fileupload-1.2.1.jar;C:\Users\idhaxn\.ivy2\cache\commons-io\commons-io\jars\commons-io-2.0.1.jar;C:\Users\idhaxn\.ivy2\cache\net.liftweb\lift-json-ext_2.9.1\jars\lift-json-ext_2.9.1-2.4-M4.jar;C:\Users\idhaxn\.ivy2\cache\commons-codec\commons-codec\jars\commons-codec-1.4.jar;C:\Users\idhaxn\.ivy2\cache\net.liftweb\lift-common_2.9.1\jars\lift-common_2.9.1-2.4-M4.jar;C:\Users\idhaxn\.ivy2\cache\net.liftweb\lift-json_2.9.1\jars\lift-json_2.9.1-2.4-M4.jar;C:\Users\idhaxn\.ivy2\cache\com.thoughtworks.paranamer\paranamer\jars\paranamer-2.3.jar;C:\Users\idhaxn\.ivy2\cache\org.slf4j\slf4j-api\jars\slf4j-api-1.6.0.jar;C:\Users\idhaxn\.ivy2\cache\org.slf4j\slf4j-nop\jars\slf4j-nop-1.6.0.jar;C:\Users\idhaxn\.ivy2\cache\javax.servlet\servlet-api\jars\servlet-api-2.5.jar
+[debug] 	C:\Users\idhaxn\Documents\Projects\BowlerTest\src\main\scala\bowlerquickstart\Bootstrap.scala
+[debug] 	C:\Users\idhaxn\Documents\Projects\BowlerTest\src\main\scala\bowlerquickstart\MyController.scala
+[debug] 	Invalidated direct: Set()
+[debug] Incrementally invalidated: Set()

@@ -1,0 +1,6 @@
+version
+sessoin
+session
+exit
+get sbt.version
+sbt.version
